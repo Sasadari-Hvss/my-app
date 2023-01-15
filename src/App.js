@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <h1>sampath</h1>
         <h2>University of Moratuwa</h2>
-        <p>aaaaaaaa</p>
+        <p>sasa</p>
       </header>
     </div>
   );
